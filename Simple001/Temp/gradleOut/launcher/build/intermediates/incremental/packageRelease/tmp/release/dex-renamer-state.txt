@@ -1,0 +1,4 @@
+#Wed Nov 04 23:10:47 EET 2020
+base.0=/home/mythcat/UnityProjects/Simple001/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
